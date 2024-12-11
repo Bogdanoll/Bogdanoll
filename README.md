@@ -29,7 +29,7 @@
 - 📊 **A/B Testing** - dissecting the nuances of experimentation.
 
 <h1></h1>
-
+📨Contact me: ob26221@gmail.com We are waiting for your signal!
 
 <h1></h1>
 
@@ -37,9 +37,6 @@
 
 <h1></h1>
 
-
-
-<h1></h1>
 
 ### Socials
 
