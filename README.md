@@ -1,4 +1,3 @@
-<h1 align="center">👋 I'm Oleg</h1>
 <h3 align="center">Passionate Data Analyst</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GIT+Hub+📚)](https://git.io/typing-svg)
